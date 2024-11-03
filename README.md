@@ -1,1 +1,5 @@
 # PredictionMarkets
+
+Prediction markets are platforms where individuals trade contracts based on the outcome of future events, such as political elections or economic indicators. They crowd-source opinions about the likelihood of events to come up with probabilities of events occurring. These markets leverage collective intelligence to forecast outcomes with high accuracy, harnessing the wisdom of crowds. Kalshi, a prominent player in this space, operates a prediction market that is noted for its unique approach to calibration and skill. Calibration in prediction markets refers to how well the probability predictions align with actual outcomes. Skill involves the ability of participants to make predictions that are more accurate than random guessing. Understanding how these elements impact prediction markets can reveal insights into their reliability and effectiveness.
+
+In machine learning, sentiment analysis is an effective tool, particularly when combined with social media, news feeds, and other public data sources. This technique can be made interactive to produce a useful but entertaining tool.
